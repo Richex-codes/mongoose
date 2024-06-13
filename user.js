@@ -6,7 +6,6 @@ const schema1 = new schema({
     type: String,
     required: true,
     },
-
     age: {
     type: Number,
     },
